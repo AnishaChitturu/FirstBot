@@ -1,4 +1,4 @@
-# News Research Tool 📈
+# Research Bot
 
 The News Research Tool is a Streamlit application designed to analyze news articles and answer questions based on user input. It leverages advanced natural language processing (NLP) techniques, including embeddings and retrieval models, to provide accurate and insightful answers to user queries.
 
@@ -13,6 +13,9 @@ The News Research Tool is a Streamlit application designed to analyze news artic
 - **Question Answering**: Users can ask questions related to the analyzed articles using natural language queries. The tool retrieves relevant answers based on the processed text and stored embeddings.
 
 - **Source Display**: Along with the answers, the tool displays the sources from which the information was retrieved, providing transparency and credibility to the results.
+
+  ![image](https://github.com/AnishaChitturu/FirstBot/assets/74812549/0f0d431b-345f-4c74-9b3d-4d77d0c70bc5)
+
 
 ## Why FAISS, Splitters, and OpenAI Embeddings?
 
